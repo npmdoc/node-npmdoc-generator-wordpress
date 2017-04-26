@@ -1,6 +1,6 @@
 # npmdoc-generator-wordpress
 
-#### api documentation for  [generator-wordpress (v2.0.2)](https://github.com/wesleytodd/YeoPress)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-wordpress.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-wordpress) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-wordpress.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-wordpress)
+#### basic api documentation for  [generator-wordpress (v2.0.2)](https://github.com/wesleytodd/YeoPress)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-wordpress.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-wordpress) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-wordpress.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-wordpress)
 
 #### A Yeoman generator for WordPress
 
@@ -75,7 +75,8 @@
     "scripts": {
         "test": "node_modules/istanbul/lib/cli.js test node_modules/mocha/bin/_mocha --dir test/coverage"
     },
-    "version": "2.0.2"
+    "version": "2.0.2",
+    "bin": {}
 }
 ```
 
